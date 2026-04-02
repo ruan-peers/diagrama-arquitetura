@@ -18,8 +18,11 @@ Para rodar localmente, organize os arquivos da seguinte forma:
 ├── README.md
 
 └── src/
+
     ├── main.jsx
+    
     ├── App.jsx
+    
     └── index.css
 
 
