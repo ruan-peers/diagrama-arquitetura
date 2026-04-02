@@ -6,12 +6,17 @@ Esta é uma ferramenta interativa desenvolvida em React para explicar a arquitet
 
 Para rodar localmente, organize os arquivos da seguinte forma:
 
-/
+
 ├── index.html
+
 ├── package.json
+
 ├── tailwind.config.js
+
 ├── postcss.config.js
+
 ├── README.md
+
 └── src/
     ├── main.jsx
     ├── App.jsx
